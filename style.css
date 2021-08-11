@@ -22,7 +22,7 @@ body {
 main {
     background-color: var(--card-background);
     color: var(--main-paragraph);
-    margin: 5%;
+    margin: 10% 5% 5% 5%;
     padding: 0;
     border: none;
     border-radius: 10px;
