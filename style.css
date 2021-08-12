@@ -141,6 +141,7 @@ h1 {
     }
     h1 {
         padding: initial;
+        letter-spacing: initial;
         font-size: 2.4rem;
     }    
     .container-stats {
@@ -156,7 +157,7 @@ h1 {
     }
     .bold-stat {
         font-size: 1.6rem;
-        letter-spacing: 0.03em;
+        letter-spacing: initial;
         text-align: left;
     }
     .text-stat {
