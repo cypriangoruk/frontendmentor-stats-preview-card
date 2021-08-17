@@ -1,1 +1,0 @@
-# frontendmentor-stats-preview-card
